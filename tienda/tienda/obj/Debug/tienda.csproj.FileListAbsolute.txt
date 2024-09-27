@@ -1,0 +1,7 @@
+C:\Users\Vizm4\source\repos\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\Vizm4\source\repos\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\Vizm4\source\repos\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\Vizm4\source\repos\tienda\tienda\obj\Debug\tienda.csproj.AssemblyReference.cache
+C:\Users\Vizm4\source\repos\tienda\tienda\obj\Debug\tienda.csproj.CoreCompileInputs.cache
+C:\Users\Vizm4\source\repos\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\Vizm4\source\repos\tienda\tienda\obj\Debug\tienda.pdb
